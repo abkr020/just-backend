@@ -1,0 +1,15 @@
+{
+  "name": "just-backend",
+  "version": "1.0.0",
+  "description": "copying the whole backend of chai and backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backent"
+  ],
+  "author": "abhishek kumar",
+  "license": "ISC"
+}
